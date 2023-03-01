@@ -82,5 +82,5 @@ def getAppVersionName() {
     return name
 }
 
-ext.appVersionCode = getAppVersionCode()
+ext.appVersionCode = 11000101
 ext.appVersionName = getAppVersionName()
